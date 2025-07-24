@@ -1,6 +1,12 @@
-flask
+fastapi
+uvicorn
 torch
 torchvision
+numpy
+pillow
 tqdm
-Pillow
-uvicorn
+opencv-python-headless
+tifffile
+scikit-learn
+requests
+sentinelhub
